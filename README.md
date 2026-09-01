@@ -2,3 +2,16 @@
 Made by: Henley Lorin M. De Guzman | 2ECEB
 
 This repository contains the Programming Assignment #2 for the course ECE2112 "Advanced Computer Programming and Algorithms" in the A.Y. 2026 - 2027. This assignment covers three Python programming problems related to Module 2, titled Numpy.
+
+#**A. REPRODUCIBLE NORMALIZATION PROBLEM**
+
+Create a reproducible random 5x5 integer ndarray named X. 
+
+The following functions and methods were used in this problem:
+
+1) `np.random.seed()`
+2) `np.random.randit()`
+3) `np.mean()`
+4) `np.std()`
+5) `X_normalized`
+6) `np.save`
