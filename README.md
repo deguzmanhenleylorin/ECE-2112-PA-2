@@ -36,3 +36,12 @@ Example:
 Example:
 ``` python
 ```
+Thank you for reading!
+
+Programming Assignment #2:
+
+#### **READ ME FILE HISTORY: **
+
+September 1, 2026 - Initial README output uploaded.
+September 2, 2026 - README output updated.
+September 3, 2026 - README output finalized.
