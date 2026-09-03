@@ -9,7 +9,12 @@ Create a reproducible random 5x5 integer ndarray named X.
 
 The following functions and methods were used in this problem:
 
-1) `np.random.seed()`
+1) `np.random.seed()` - 
+``` python
+np.random.seed(2112)
+X = np.random.randint(10, 101, size=(5, 5))
+X
+```
 2) `np.random.randit()`
 3) `np.mean()`
 4) `np.std()`
