@@ -96,7 +96,7 @@ print("\nNumber of selected elements:", above_mean.size)
 
 Thank you for reading!
 
-Programming Assignment #2:
+Programming Assignment #2: https://github.com/deguzmanhenleylorin/ECE-2112-PA-2/blob/main/Programming_Assignment_2.ipynb
 
 #### **READ ME FILE HISTORY: **
 
